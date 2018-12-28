@@ -5,7 +5,7 @@ from frequency_parser import (
 )
 
 
-CLI_DESCRIPTION = 'Process first Advent of Code input for the Day 1 puzzle.'
+CLI_DESCRIPTION = 'Process second Advent of Code puzzle for the Day 1.'
 
 
 def main():
